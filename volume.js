@@ -7,8 +7,7 @@ function volume(h,l,w) {
     return n;
 }
 
-console.log(area(2,3))
-console.log(volume(2,3,6))
+
 
 
 
