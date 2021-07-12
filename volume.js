@@ -9,6 +9,7 @@ function volume(h,l,w) {
 
 
 
+console.log(area(2,3))
 console.log(volume(2,3,6))
 
 
