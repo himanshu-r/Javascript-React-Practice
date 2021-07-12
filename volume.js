@@ -9,6 +9,7 @@ function volume(h,l,w) {
 
 
 
+console.log(volume(2,3,6))
 
 
 
